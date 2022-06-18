@@ -41,8 +41,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-
-<img src='https://imgur.com/a/zkGcxqv.gif' title='Video Walkthrough'  alt='Video Walkthrough' />
+https://imgur.com/a/zkGcxqv.gif
 
 GIF created with [EzGif](https://ezgif.com/).
 
